@@ -22,9 +22,6 @@ My goal is to strike the perfect balance between aesthetics and functionality to
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img height="32" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img height="32" src="https://cdn.simpleicons.org/github/FFFFFF">
 </div>
